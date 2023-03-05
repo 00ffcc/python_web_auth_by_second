@@ -1,0 +1,116 @@
+{
+    "user": {
+        "2": {
+            "machine_code": "gnd123456789111111",
+            "last": 55500,
+            "last_date": "2023-03-05 16:14:13",
+            "reg_date": "2023-03-05 16:08:58"
+        }
+    },
+    "card": {
+        "1": {
+            "card_number": "20220902EPEHT",
+            "card_pass": "SAVXWOQM",
+            "time": 50000,
+            "used": false,
+            "used_machine_code": "",
+            "used_time": ""
+        },
+        "2": {
+            "card_number": "gnd20230305EZPKI",
+            "card_pass": "PPHXHRVK",
+            "time": 900,
+            "used": false,
+            "used_machine_code": "",
+            "used_time": ""
+        },
+        "3": {
+            "card_number": "gnd20230305UCTBF",
+            "card_pass": "ZOOGHWAS",
+            "time": 900,
+            "used": false,
+            "used_machine_code": "",
+            "used_time": ""
+        },
+        "4": {
+            "card_number": "gnd20230305ONYAF",
+            "card_pass": "PWOHONPG",
+            "time": 900,
+            "used": false,
+            "used_machine_code": "",
+            "used_time": ""
+        },
+        "5": {
+            "card_number": "gnd20230305BUBQK",
+            "card_pass": "EOFNOXMW",
+            "time": 900,
+            "used": false,
+            "used_machine_code": "",
+            "used_time": ""
+        },
+        "6": {
+            "card_number": "gnd20230305TMBTG",
+            "card_pass": "KBIIFNMN",
+            "time": 900,
+            "used": false,
+            "used_machine_code": "",
+            "used_time": ""
+        },
+        "7": {
+            "card_number": "gnd20230305YKPDK",
+            "card_pass": "KCHCKZAP",
+            "time": 900,
+            "used": false,
+            "used_machine_code": "",
+            "used_time": ""
+        },
+        "8": {
+            "card_number": "gnd20230305TMFIK",
+            "card_pass": "OPRDBQRH",
+            "time": 900,
+            "used": false,
+            "used_machine_code": "",
+            "used_time": ""
+        },
+        "9": {
+            "card_number": "gnd20230305WRZVL",
+            "card_pass": "AFXBWAGD",
+            "time": 900,
+            "used": false,
+            "used_machine_code": "",
+            "used_time": ""
+        },
+        "10": {
+            "card_number": "gnd20230305ZJFKL",
+            "card_pass": "AZGYNLPN",
+            "time": 900,
+            "used": false,
+            "used_machine_code": "",
+            "used_time": ""
+        },
+        "11": {
+            "card_number": "gnd20230305MKMPA",
+            "card_pass": "TKMITIWF",
+            "time": 900,
+            "used": false,
+            "used_machine_code": "",
+            "used_time": ""
+        },
+        "12": {
+            "card_number": "gnd20230305YQRLL",
+            "card_pass": "DBRYFRAL",
+            "time": 900,
+            "used": true,
+            "used_machine_code": "gnd123456789111111",
+            "used_time": "2023-03-05 16:13:37"
+        },
+        "13": {
+            "card_number": "gnd20230305IBFFO",
+            "card_pass": "EPHJBWBC",
+            "time": 86400,
+            "used": false,
+            "used_machine_code": "",
+            "used_time": ""
+        }
+    }
+}
